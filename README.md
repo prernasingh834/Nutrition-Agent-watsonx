@@ -29,9 +29,6 @@ This project is developed as part of IBM's AI internship training, where a **Nut
 2. **Model Used:** Granite-13b-instruct-v2 (or similar, based on Watsonx deployment).
 3. **Deployment:** The agent was tested within the Watsonx prompt lab and integrated into a simple Python or web interface (optional).
 
-## 📸 Screenshots
-
-![Watsonx Prompt UI](watsonx/screenshots/watsonx_ui.png)
 
 ## 🎥 Demo
 
