@@ -1,41 +1,39 @@
+
 # 🧠 Nutrition Agent – IBM Watsonx Studio Project
 
-An AI-powered virtual assistant that helps users make smarter nutrition decisions using the capabilities of IBM Watsonx Studio on IBM Cloud.
+This project is an AI-powered **Nutrition Assistant** developed using IBM Watsonx Studio. It provides diet advice, food analysis, and fitness tips based on user inputs.
 
-## 🚀 Project Overview
+## 📂 Project Structure
 
-This project is developed as part of IBM's AI internship training, where a **Nutrition Agent** was built using **Watsonx.ai**, utilizing prompt engineering and natural language processing to answer food and health-related queries.
+```
+Nutrition-Agent-watsonx-NewRepo/
+├── assets/
+│   └── images/         # Screenshots and visuals
+├── datasets/           # Nutrition datasets (if any)
+├── notebooks/          # Watsonx notebooks
+├── watsonx/            # Configuration and agent logic
+└── README.md           # Project overview
+```
 
-## 🌐 Technologies Used
+## 📸 Screenshots
 
-- IBM Watsonx.ai Studio (Prompt-based AI)
-- IBM Cloud
-- AI Foundation Models (Granite Family)
-- Python (optional for integration)
-- CSV for Nutrition Dataset
+### 🤖 Agent Welcome Screen
+![Welcome](assets/images/830FCBB4-BF1A-46FA-8E28-588178B7469E.jpeg)
 
-## 🗂️ Folder Breakdown
+### 🍏 Nutrition Suggestions
+![Suggestions](assets/images/753D1DB7-3A10-46E1-99ED-B4163C85BB29.jpeg)
 
-| Folder | Description |
-|--------|-------------|
-| `watsonx/` | Contains prompt files, screenshots of deployment, and configurations |
-| `datasets/` | Sample nutrition data used to support prompts |
-| `notebooks/` | IBM Watsonx notebooks (Python + Prompt Engineering) |
-| `assets/` | Demo videos or GIFs for visual presentation |
+### ⚖️ Weight Loss Advice
+![Weight Loss](assets/images/34EFF06F-6457-4638-94FD-854D99A49C38.jpeg)
 
-## 📝 How It Works
+### 🧪 Watsonx Build Interface
+![Watsonx](assets/images/B23A2A2F-7641-4392-B78D-C73CB1044351.jpeg)
 
-1. **Prompt Design:** A custom prompt was crafted to guide the agent in answering user queries about calories, healthy meals, and diet tips.
-2. **Model Used:** Granite-3-3-8b-instruct (or similar, based on Watsonx deployment).
-3. **Deployment:** The agent was tested within the Watsonx prompt lab and integrated into a simple Python or web interface (optional).
+## 👩‍💻 Built With
+- IBM Watsonx Studio
+- Python & AI APIs
+- GitHub for version control
 
+---
 
-
-## 👤 Author
-
-**Prerna Singh**  
-BCA Cybersecurity @ Sharda University  
-📧 singhprerna834@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/)
-
-> 🥗 **Tagline**: “Eat Smart, Live Well – Powered by AI.”
+📝 **Maintainer**: Prerna Singh | BCA Cybersecurity | Sharda University
