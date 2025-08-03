@@ -23,8 +23,6 @@ Nutrition-Agent-watsonx-NewRepo/
 ### 🍏 Nutrition Suggestions
 ![Suggestions](assets/images/753D1DB7-3A10-46E1-99ED-B4163C85BB29.jpeg)
 
-### ⚖️ Weight Loss Advice
-![Weight Loss](assets/images/34EFF06F-6457-4638-94FD-854D99A49C38.jpeg)
 
 ### 🧪 Watsonx Build Interface
 ![Watsonx](assets/images/B23A2A2F-7641-4392-B78D-C73CB1044351.jpeg)
