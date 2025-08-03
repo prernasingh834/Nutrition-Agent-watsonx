@@ -26,13 +26,10 @@ This project is developed as part of IBM's AI internship training, where a **Nut
 ## 📝 How It Works
 
 1. **Prompt Design:** A custom prompt was crafted to guide the agent in answering user queries about calories, healthy meals, and diet tips.
-2. **Model Used:** Granite-13b-instruct-v2 (or similar, based on Watsonx deployment).
+2. **Model Used:** Granite-3-3-8b-instruct (or similar, based on Watsonx deployment).
 3. **Deployment:** The agent was tested within the Watsonx prompt lab and integrated into a simple Python or web interface (optional).
 
 
-## 🎥 Demo
-
-👉 Watch the full demo: [Demo Video](assets/demo_video.mp4)
 
 ## 👤 Author
 
